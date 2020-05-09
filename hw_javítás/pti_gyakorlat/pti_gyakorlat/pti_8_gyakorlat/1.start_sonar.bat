@@ -1,0 +1,1 @@
+./tools/sonarqube-8.0/bin/windows-x86-64/StartSonar.bat
